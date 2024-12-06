@@ -11,6 +11,12 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 ## Create theme with material schematic
 
 ```bash
+ng add  @angular/material
+```
+
+select custom theme
+
+```bash
 ng g @angular/material:theme-color
 
 ```
