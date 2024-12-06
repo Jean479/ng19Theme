@@ -2,6 +2,21 @@
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.0.4.
 
+## Create dashboard with material schematic
+
+```bash
+ ng g @angular/material:dashboard dashboard
+```
+
+## Create theme with material schematic
+
+```bash
+ng g @angular/material:theme-color
+
+```
+
+from primary: #5B217F, secondary: #9D8AA4, tertiary: #BE8082
+
 ## Development server
 
 To start a local development server, run:
